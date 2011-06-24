@@ -1,0 +1,2 @@
+a.timer { display: block; float: left; height: 16px; width:16px; background: no-repeat url('../pages/images/time_add.png'); margin-bottom: -4px; margin-right: 4px; }
+a.timer_on { background-image: url('../pages/images/time_go.png'); }
